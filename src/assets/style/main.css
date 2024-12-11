@@ -1,0 +1,28 @@
+@import './base.css';
+
+.iconfont{
+    font-size: 16rem;
+}
+
+:root:root {
+    --van-tabs-bottom-bar-width: 0rem;
+    --van-tabs-bottom-bar-height: 0rem;
+    --van-padding-base: 4rem;
+        --van-padding-xs: 8rem;
+        --van-padding-sm: 12rem;
+        --van-padding-md: 16rem;
+        --van-padding-lg: 24rem;
+        --van-padding-xl: 32rem;
+        --van-font-bold: 600;
+        --van-font-size-xs: 10rem;
+        --van-font-size-sm: 12rem;
+        --van-font-size-md: 14rem;
+        --van-font-size-lg: 16rem;
+        --van-line-height-xs: 14rem;
+        --van-line-height-sm: 18rem;
+        --van-line-height-md: 20rem;
+        --van-line-height-lg: 22rem;
+        --van-tabbar-height: 50rem;
+        --van-tabs-line-height:45rem;
+        --van-cell-border-color:#fff
+}
